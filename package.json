@@ -1,0 +1,21 @@
+{
+  "name": "shiftplanning",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "got": "^12.5.3"
+  },
+  "dependencies": {
+    "formdata-node": "^5.0.0",
+    "promise-status-async": "^1.2.10"
+  }
+}
